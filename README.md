@@ -47,6 +47,7 @@ pip install -r requirements.txt
 python src/model.py --train data/train.csv --test data/test.csv
 # Results
 performance metrics (Accuracy, Precision, Recall, F1-score).
+
 Accuracy: 92%
 
 Precision: 90%
